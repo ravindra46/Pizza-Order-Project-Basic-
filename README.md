@@ -1,2 +1,2 @@
-# pro-ject
+# project
 Task
