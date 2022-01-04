@@ -11,7 +11,15 @@ In this project, three-part i.e.
 Output :
 
 
+
+
+
+
+
 ![Pizza project-Output 1](https://user-images.githubusercontent.com/64595990/148017272-c367b86b-8688-4f85-a272-69ac76cc5bd3.png)
+
+
+
 
 
 ![Pizza Project output 2](https://user-images.githubusercontent.com/64595990/148017348-acfc96fa-7220-45ea-aed4-90c99b2c5994.png)
